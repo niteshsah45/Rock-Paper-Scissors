@@ -1,0 +1,41 @@
+ .headingwork{
+            font-size:40px;
+        }
+        body{
+            background-color: black;
+            font-weight:bold;
+            color:white;
+        }
+        img{
+            height:50px;
+        }
+        .move-icon{
+            background-color:transparent;
+            width:100px;
+            height:100px;
+            border:2px solid white;
+            border-radius:70px;
+            margin-right:10px;
+            cursor:pointer;
+        }
+        .js-reset,
+        .auto-play-css{
+            padding:10px;
+            cursor:pointer;
+            margin:10px;
+        }
+        .moves{
+            height:60px;
+            margin:0 10px;
+        }
+        .result{
+            font-size:30px;
+        }
+        .auto-play-css{
+            background-color:green;
+            color:white;
+        }
+        .css-auto-play{
+            background-color:red;
+            color:black;
+        }
